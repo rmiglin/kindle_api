@@ -21,7 +21,9 @@
 }
 
 body {
+    font-family: monospace;
     background: var(--bg);
+    color: var(--fontColor);
 }
 
 ul {
